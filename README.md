@@ -1,5 +1,5 @@
 # matbridge
 MATbridge
-Evaluation of carbon footprint and embodied of experimental materials.
-This project developed as a part of a development project MATbridge at Copenhagen School of
+Tool to the aim to aid the sustainability evaluation of experimental materials.
+This project is developed as a part of the development project MATbridge at Copenhagen School of
 Design and Technology. 
